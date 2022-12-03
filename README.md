@@ -9,7 +9,7 @@ Jut run 'EADNMF.ipynb'.
   
   *https://doi.org/10.1016/j.ins.2022.11.120*
 
-<p align=center><img src="fig.svg" width="70%" height="70%"></p>
+<p align=center><img src="fig.svg" width="60%" height="60%"></p>
 
   # Abstract
 
