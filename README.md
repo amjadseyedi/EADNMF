@@ -4,7 +4,7 @@ Jut run 'EADNMF.ipynb'.
 
   *Seyed Amjad Seyedi, Fardin Akhlaghian Tab, Abdulrahman Lotfi, navid Salahian, Jovan Chavoshinejad*
   
-    *Information Sciences 2023*
+  *Information Sciences 2023*
 
   
   *https://doi.org/10.1016/j.ins.2022.11.120*
